@@ -5,8 +5,8 @@
     justify-content: center;
 }
 
- .item {
+ .container .item {
    height : 100px;
-   width:50%;
+   width:100px;
    background-color: green; 
 }
