@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
     display : flex;
     justify-content: center;
 }
 
- .container .item-1 {
+ .holder .item-1 {
    height : 100px;
    width: 100px;
    background-color: blue; 
